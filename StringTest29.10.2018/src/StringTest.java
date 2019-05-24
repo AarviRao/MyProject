@@ -9,6 +9,7 @@ public class StringTest {
 			rev = rev + s.charAt(i);
 		}
 		System.out.println(rev);
+		//this is GIt
 
 	}
 
